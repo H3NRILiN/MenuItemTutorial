@@ -6,11 +6,11 @@ using UnityEngine;
 public class MenuItemDemo
 {
 
-    // [MenuItem("GameObject/我的Hierarchy選項", false, 0)]
-    // static void MenuItemInHeirarchy()
-    // {
+    [MenuItem("GameObject/我的Hierarchy選項", false, 0)]
+    static void MenuItemInHeirarchy()
+    {
 
-    // }
+    }
 
 
     // [MenuItem("CONTEXT/Rigidbody/我在RigidBody的選項")]
